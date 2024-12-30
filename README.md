@@ -28,7 +28,7 @@
 #
 
 <details>
-          <sumary><h3>👑 About me</h3></sumary>
+          <summary><h3>👑 About me</h3></summary>
 Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nickname. I've been interested in programming and IT in general since elementary school. Thanks to that, I decided to go to an industrial high school and my major is IT. I would say that I've programmed a little bit in my entire career, but I've been most interested in creating applications, both desktop and web. Unfortunately, I'm not exactly a designer, so I focus more on backend and databases. My big goal is to learn JavaScript perfectly, but I don't know if that's even possible. I also try to simplify my life with technology, which is the reason for my desktop applications, which are most often in C# or C++. I'm also a passionate video game player. I enjoy strategic and technical games, if I had more time, I would definitely want to play some story games. Although I don't know if it's something to brag about, I have over 5000 hours on League of Legends, unfortunately. Since I haven't found the perfect game exactly to my taste yet, I started creating my own. I'm probably most interested in the Unity engine. My favorite style is 2D. Now I would like to move on to a slightly different part. Recently, I've been interested in working with Arduino and Raspberry Pi. I definitely think it's a great way to use technology. So that I'm not only talking about computers here, I also go to the gym and I like to play sports, my favorite sport is basketball.  So, I would summarize it as trying to improve my education and skills, but also maintain my physical health.
 </details>
 
