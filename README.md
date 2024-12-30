@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Developer/Videomaker/Gamer)`**
 
+<img src="https://github.com/user-attachments/assets/e6fde60a-cf31-47bd-a0f8-0ef2e7da3370.png" alt="profile banner">
+
 ###Quick text about me
 
 ### 📲 Social links
