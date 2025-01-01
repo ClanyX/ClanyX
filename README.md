@@ -44,4 +44,4 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 
 ![ClanyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClanyX&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClanyX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClanyX&layout=compact&theme=onedark)
