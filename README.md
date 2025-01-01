@@ -12,6 +12,9 @@ I'm a programmer and player. I'm programming in VSC and Unity. Since 2022, I hav
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X4UOI83)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 ### 🧰 Languages and Tools
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
