@@ -42,6 +42,13 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 
 ### 📊 Stats
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ClanyX&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClanyX&layout=compact&theme=onedark&langs_count=8&card_width=320" />
+</a>
+
 ![ClanyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClanyX&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClanyX&layout=compact&theme=onedark)
