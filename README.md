@@ -11,8 +11,8 @@ I'm a programmer and player. I'm programming in VSC and Unity. Since 2022, I hav
 ### 📲 Social links
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X4UOI83)
-<p><a target="_blank" href="https://www.instagram.com/https://www.instagram.com/f.sandera/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@clanyx" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<p><a target="_blank" href="https://www.instagram.com/https://www.instagram.com/f.sandera/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 
 ### 🧰 Languages and Tools
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
