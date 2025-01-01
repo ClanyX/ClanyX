@@ -52,6 +52,6 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ClanyX&" alt="ClanyX" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ClanyX&theme=onedark" alt="ClanyX" /></p>
 
 
