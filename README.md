@@ -11,7 +11,7 @@ I'm a programmer and player. I'm programming in VSC and Unity. Since 2022, I hav
 ### 📲 Social links
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X4UOI83)
-<a href="https://www.youtube.com/@clanyx" target="_blank" style="background-color: #FF0000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
+<a href="https://www.youtube.com/@clanyx" target="_blank" style="background-color: red; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
     Subscribe on YouTube
 </a>
 
