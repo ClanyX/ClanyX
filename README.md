@@ -50,3 +50,5 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClanyX&layout=compact&theme=onedark&langs_count=8&card_width=320" />
 </a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ClanyX&show_icons=true&locale=en" alt="ClanyX" /></p>
