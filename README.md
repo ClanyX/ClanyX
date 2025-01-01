@@ -11,7 +11,8 @@ I'm a programmer and player. I'm programming in VSC and Unity. Since 2022, I hav
 ### 📲 Social links
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X4UOI83)
-<script src="https://apis.google.com/js/platform.js"></script> <div class="g-ytsubscribe" data-channelid="UCAa3RGYvxNJC_pedvWV9CIA" data-layout="full" data-theme="dark" data-count="default"></div>
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UCAa3RGYvxNJC_pedvWV9CIA" data-layout="full" data-theme="dark" data-count="default"></div>
 
 ### 🧰 Languages and Tools
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
