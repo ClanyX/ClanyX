@@ -30,7 +30,6 @@ I'm a programmer and player. I'm programming in VSC and Unity. Since 2022, I hav
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
           
-
 <br><br>
 
 #
