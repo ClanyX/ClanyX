@@ -12,8 +12,8 @@ I'm a programmer and player. I'm programming in VSC and Unity. Since 2022, I hav
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X4UOI83)
 <p><a target="_blank" href="https://www.youtube.com/@clanyx" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-<a target="_blank" href="https://www.instagram.com/f.sandera/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://discord.gg/rgMz3JupXH" style="display: inline-block;"><img src="https://img.shields.io/badge/discord-logo?style=for-the-badge&logo=discord&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.instagram.com/f.sandera/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=DD2A7B" alt="instagram" /></a>
+<a target="_blank" href="https://discord.gg/rgMz3JupXH" style="display: inline-block;"><img src="https://img.shields.io/badge/discord-logo?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="discord" /></a></p>
 
 ### 🧰 Languages and Tools
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
