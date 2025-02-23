@@ -54,5 +54,5 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 <img src="https://github-profile-trophy.vercel.app/?username=ClanyX&theme=onedark" />
 
 ### 📁 Portfolio 
-[![Sorting Methods](https://img.shields.io/badge/GitHub-Sorting_Methods-blue?style=for-the-badge&logo=github)](https://github.com/ClanyX/Sorting_Methods)
+[![Sorting Methods](https://img.shields.io/badge/GitHub-Sorting_Methods-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Sorting_Methods)
 
