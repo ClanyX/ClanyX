@@ -57,6 +57,9 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 <!--C#-->
 [![Sorting Methods](https://img.shields.io/badge/GitHub-Sorting_Methods-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Sorting_Methods.git)
 [![Triangle](https://img.shields.io/badge/GitHub-Triangle-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Triangle.git)
-[![FormWebApp](https://img.shields.io/badge/GitHub-FormWebApp-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/FormWebApp.git)
+[![FormWebApp](https://img.shields.io/badge/GitHub-FormWebApp-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/FormWebApp.git)<br>
+
+<!--Svelte-->
+[![Word scramble](https://img.shields.io/badge/GitHub-word_scramble-orange?style=for-the-badge&logo=github)](https://github.com/ClanyX/word_scramble.git)
 
 
