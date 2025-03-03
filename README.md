@@ -59,11 +59,12 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 [![Triangle](https://img.shields.io/badge/GitHub-Triangle-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Triangle.git)
 [![FormWebApp](https://img.shields.io/badge/GitHub-FormWebApp-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/FormWebApp.git)<br>
 
+<!--C++-->
+[![Arduino](https://img.shields.io/badge/GitHub-Arduino-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/Arduino.git)
+[![Auto Clicker](https://img.shields.io/badge/GitHub-auto_clicker-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/AutoClicker.git)<br>
+
 <!--Svelte-->
 [![Word scramble](https://img.shields.io/badge/GitHub-word_scramble-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/word_scramble.git)<br>
-
-<!--C++-->
-[![Auto Clicker](https://img.shields.io/badge/GitHub-auto_clicker-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/AutoClicker.git)<br>
 
 <!--JS-->
 [![Weather App](https://img.shields.io/badge/GitHub-Weather_app-yellow?style=for-the-badge&logo=github)](https://github.com/ClanyX/WeatherApp.git)
