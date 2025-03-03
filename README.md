@@ -54,19 +54,20 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 <img src="https://github-profile-trophy.vercel.app/?username=ClanyX&theme=onedark" />
 
 ### 📁 Portfolio 
-<!--C#-->
+
+# C#
 [![Sorting Methods](https://img.shields.io/badge/GitHub-Sorting_Methods-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Sorting_Methods.git)
 [![Triangle](https://img.shields.io/badge/GitHub-Triangle-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Triangle.git)
 [![FormWebApp](https://img.shields.io/badge/GitHub-FormWebApp-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/FormWebApp.git)<br>
 
-<!--C++-->
+# C++
 [![Arduino](https://img.shields.io/badge/GitHub-Arduino-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/Arduino.git)
 [![Auto Clicker](https://img.shields.io/badge/GitHub-auto_clicker-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/AutoClicker.git)<br>
 
-<!--Svelte-->
-[![Word scramble](https://img.shields.io/badge/GitHub-word_scramble-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/word_scramble.git)<br>
+# JavaScript
+[![Weather App](https://img.shields.io/badge/GitHub-Weather_app-yellow?style=for-the-badge&logo=github)](https://github.com/ClanyX/WeatherApp.git)<br>
 
-<!--JS-->
-[![Weather App](https://img.shields.io/badge/GitHub-Weather_app-yellow?style=for-the-badge&logo=github)](https://github.com/ClanyX/WeatherApp.git)
+# Svelte
+[![Word scramble](https://img.shields.io/badge/GitHub-word_scramble-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/word_scramble.git)<br>
 
 
