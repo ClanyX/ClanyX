@@ -63,6 +63,6 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 [![Word scramble](https://img.shields.io/badge/GitHub-word_scramble-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/word_scramble.git)
 
 <!--C++-->
-[![Auto Clicker](https://img.shields.io/badge/GitHub-auto-clicker-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/AutoClicker.git)
+[![Auto Clicker](https://img.shields.io/badge/GitHub-auto_clicker-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/AutoClicker.git)
 
 
