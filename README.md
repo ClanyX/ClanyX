@@ -63,6 +63,7 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 
 # C++
 [![Arduino](https://img.shields.io/badge/GitHub-Arduino-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/Arduino.git)
+[![ESP32](https://img.shields.io/badge/GitHub-ESP32-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/ESP32.git)
 [![Auto Clicker](https://img.shields.io/badge/GitHub-auto_clicker-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/AutoClicker.git)<br>
 
 # JavaScript
