@@ -71,6 +71,6 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 
 # Svelte
 [![Word scramble](https://img.shields.io/badge/GitHub-word_scramble-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/Word-Scramble.git)
-[![Custom Tinder](https://img.shields.io/badge/GitHub-custom_tinder-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/Dating_Site.git)<br>
+[![DateKit](https://img.shields.io/badge/GitHub-datekit-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/DateKit.git)<br>
 
 
