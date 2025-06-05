@@ -57,7 +57,7 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 ### 📁 Portfolio 
 
 # C#
-[![Sorting Methods](https://img.shields.io/badge/GitHub-Sorting_Methods-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Sorting_Methods.git)
+[![Sorting Methods](https://img.shields.io/badge/GitHub-Sorting_Methods-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Sorting-Methods.git)
 [![Triangle](https://img.shields.io/badge/GitHub-Triangle-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Triangle.git)
 [![FormWebApp](https://img.shields.io/badge/GitHub-FormWebApp-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/FormWebApp.git)<br>
 
