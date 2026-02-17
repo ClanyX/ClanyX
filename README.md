@@ -52,7 +52,7 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClanyX&layout=compact&theme=onedark&langs_count=8&card_width=320" alt="lang" />
 
 ### 🏆 Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=ClanyX&theme=onedark" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ClanyX)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📁 Portfolio 
 
