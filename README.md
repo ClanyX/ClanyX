@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/ebb5a877-0338-4b9d-9183-15ad0d5fd965" alt="profile banner"><br>
 
-I'm a programmer and player. I'm programming in VSC and Unity. Since 2022, I have been studying at a high technical school. My main languages are C#/C++
+I’m a passionate software developer and gamer. Since 2022, I’ve been studying at a technical high school, focusing on software development. I primarily work with C# and C++, using tools like Visual Studio Code. I also have experience with some game engines, where I explore game development as a side interest.
 
 #
 
