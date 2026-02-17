@@ -49,7 +49,7 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 ### 📊 Stats
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ClanyX&theme=onedark" alt="streak" />
 <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=ClanyX&show_icons=true&theme=onedark" alt="stats" />
-<img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ClanyX&theme=onedark&langs_count=8" alt="lang" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ClanyX&theme=onedark&langs_count=8" alt="lang" />
 
 ### 🏆 Trophy
 <img src="https://github-trophies.vercel.app/?username=ClanyX&theme=onedark" alt="trophy" />
