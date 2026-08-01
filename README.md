@@ -62,6 +62,9 @@ Hey, my name is Filip Šandera, but most people call me ClanyX, which is my nick
 [![Carlytics](https://img.shields.io/badge/GitHub-Carlytics-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/Carlytics.git)
 [![FormWebApp](https://img.shields.io/badge/GitHub-FormWebApp-green?style=for-the-badge&logo=github)](https://github.com/ClanyX/FormWebApp.git)<br>
 
+# Rust
+[![TOWER DEFENSE](https://img.shields.io/badge/GitHub-Tower_Defense-red?style=for-the-badge&logo=github)](https://github.com/ClanyX/tower_defense.git)<br />
+
 # C++
 [![Arduino](https://img.shields.io/badge/GitHub-Arduino-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/Arduino.git)
 [![ESP32](https://img.shields.io/badge/GitHub-ESP32-magenta?style=for-the-badge&logo=github)](https://github.com/ClanyX/ESP32.git)
