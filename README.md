@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/ebb5a877-0338-4b9d-9183-15ad0d5fd965" alt="profile banner"><br>
 
-I’m a passionate software developer and gamer. Since 2022, I’ve been studying at a technical high school, focusing on software development. I primarily work with C# and C++, using tools like Visual Studio Code. I also have experience with some game engines, where I explore game development as a side interest.
+I’m a passionate software developer dedicated to building modern, reliable applications. My formal journey in software engineering started in 2022 at a technical high school, and this year I continued my studies at the Faculty of Information Technology at Brno University of Technology (FIT BUT). Over the years, I’ve expanded my toolkit across the full programming spectrum, comfortably moving between high-level languages like Python and low-level languages like C, C++, and Rust to choose the right tool for the job.
 
 #
 
